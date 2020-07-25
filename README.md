@@ -2,6 +2,8 @@
 
 <em>`Seal` is a tool for simple, secure, fast file transfer between any two computers.</em>
 
+<img src="send.gif" height=500px; width="100%">
+
 ### Build
 
 on MacOS with brew
