@@ -1,4 +1,4 @@
-# Seal
+# Seal ᶘ ͡°ᴥ͡°ᶅ
 
 <em>`Seal` is a tool for simple, secure, fast file transfer between any two computers.</em>
 
